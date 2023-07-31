@@ -1,2 +1,3 @@
-# example-application
-Example out-of-tree application that is also a module
+# Zephyr Template App
+
+Template app with SemVer and Release workflows for GitHub Actions along with the Zephyr build action
